@@ -5,13 +5,11 @@ I'm a Software Engineer based in the UK.
 Professionally, I work with C++ and C#. Personally, I tinker with React, Electron and all of the fun stuff in between!
 
 ## Find me 👀
-[Website](https://emilis.co.uk)
-[Twitter](https://twitter.com/tobulevicius)
-[Formula Apex](https://formulaapex.co.uk)
-[Formula Apex Twitter](https://twitter.com/forumalapexf1)
-
----
-
+[Website](https://emilis.co.uk)  
+[Twitter](https://twitter.com/tobulevicius)  
+[Formula Apex](https://formulaapex.co.uk)  
+[Formula Apex Twitter](https://twitter.com/forumalapexf1)  
+  
 [NPM](https://www.npmjs.com/~tobulevicius)
 
 ## Things I've done 🚀
