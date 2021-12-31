@@ -9,11 +9,11 @@ Professionally, I work with C++ and C#. Personally, I tinker with React, Electro
 [Twitter](https://twitter.com/tobulevicius)  
 [Formula Apex](https://formulaapex.co.uk)  
 [Formula Apex Twitter](https://twitter.com/forumalapexf1)  
-  
 [NPM](https://www.npmjs.com/~tobulevicius)
 
 ## Things I've done 🚀
 I would list my projects out here, but I spent a good night on making a fancy little way to navigate them over on my website so I'll simply plug that page instead!
+
 [Projects](https://emilis.co.uk/projects)
 
 ## Things I'm doing 🧐
